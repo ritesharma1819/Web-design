@@ -1,3 +1,23 @@
 .logo{
     display: flex;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+
+.logo_starting{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2%;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(66, 66, 245);
+    border-radius: 50%;
+    color: white;
+    border-style: double;
+}
+
+.logo_end{
+   font-size: xx-large;
 }
