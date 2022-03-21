@@ -2,7 +2,6 @@
     display: flex;
     align-items: center;
     margin-left: 5rem;
-    margin-top: 2rem;
 }
 
 .logo_starting{
@@ -24,12 +23,14 @@
 
 .header{
     display: flex;
+    align-items: center;
+    margin-top: 1rem;
 }
 
 .remain_header{
     display: flex;
-   margin-left: 20rem;
-    margin-top: 3rem;
+    align-items: center;
+    margin-left: 20rem;
 }
 
 .key_element{
@@ -44,5 +45,20 @@
 
 .login_element{
     margin-left: 7rem;
-    margin-right: 2rem;
+    margin-right: 1rem;
+    height: 3rem;
+    width: 6rem;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: white;
+    border-color: #f1f2f3;
+}
+
+.signup_element{
+    height: 3rem;
+    width: 6rem;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #7724e4;
+    color: white;
 }
