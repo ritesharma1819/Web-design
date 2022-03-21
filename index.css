@@ -9,7 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 2%;
+    margin-right: 1.5rem;
     width: 60px;
     height: 60px;
     background-color: rgb(66, 66, 245);
@@ -20,4 +20,29 @@
 
 .logo_end{
    font-size: xx-large;
+}
+
+.header{
+    display: flex;
+}
+
+.remain_header{
+    display: flex;
+   margin-left: 20rem;
+    margin-top: 3rem;
+}
+
+.key_element{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.test_element{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.login_element{
+    margin-left: 7rem;
+    margin-right: 2rem;
 }
