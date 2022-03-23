@@ -80,3 +80,21 @@
     font-weight: 300;
     font-size: large;
 }
+
+.main_component{
+    display: flex;
+}
+
+.first_main_component{
+    margin-left: 6rem;
+}
+
+.first_heading{
+        
+}
+
+.first_heading_pra{
+    margin-left: -1rem;
+    margin-top: -1rem;
+    font-size: 13px;
+}
