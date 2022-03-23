@@ -62,3 +62,10 @@
     background-color: #7724e4;
     color: white;
 }
+
+.leftside{
+    margin-left: 5rem;
+    width: 50%;
+    height: 35rem;
+    background-color: red;
+}
