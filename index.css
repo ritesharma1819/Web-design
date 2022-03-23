@@ -90,11 +90,36 @@
 }
 
 .first_heading{
-        
+    margin-right: 3rem;
+    font-weight: 800;
+    color: #4e4c4c;
+
 }
 
 .first_heading_pra{
-    margin-left: -1rem;
+    margin-left: -0.5rem;
+    margin-top: -1rem;
+    font-size: 13px;
+}
+
+.second_heading{
+    margin-right: 4rem;
+    font-weight: 800;
+    color: #4e4c4c;
+}
+.second_heading_pra{
+    margin-left: -0.6rem;
+    margin-top: -1rem;
+    font-size: 13px;
+}
+
+
+.third_heading{
+    font-weight: 800;
+    color: #4e4c4c;
+}
+.third_heading_pra{
+    margin-left: -1.2rem;
     margin-top: -1rem;
     font-size: 13px;
 }
