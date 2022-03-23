@@ -83,10 +83,21 @@
 
 .main_component{
     display: flex;
+    align-items: center;
+}
+
+.button_component{
+    width: 10rem;
+    height: 4rem;
+    border-radius: 10px;
+    background-color: #7724e4;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .first_main_component{
-    margin-left: 6rem;
+    margin-left: 3rem;
 }
 
 .first_heading{
