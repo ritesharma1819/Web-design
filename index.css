@@ -67,5 +67,16 @@
     margin-left: 5rem;
     width: 50%;
     height: 35rem;
-    background-color: red;
+    /* background-color: red; */
+}
+
+
+.promotion_lines{
+    font-size: 4rem;
+    margin-top: 4rem;
+}
+
+.small_pragraph{
+    font-weight: 300;
+    font-size: large;
 }
