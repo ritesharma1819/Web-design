@@ -136,6 +136,24 @@
 }
 
 
+
+.members{
+    display: flex;
+}
+
+
+.admin_member{
+    width: 40px;
+}
 .first_member{
+    width: 40px;
+}
+.second_member{
+    width: 40px;
+}
+.third_member{
+    width: 40px;
+}
+.fourth_member{
     width: 40px;
 }
