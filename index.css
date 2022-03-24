@@ -66,8 +66,6 @@
 .leftside{
     margin-left: 5rem;
     width: 50%;
-    /* height: 25rem; */
-    /* background-color: red; */
 }
 
 
@@ -204,12 +202,11 @@
 
 
 .rightside{
-    /* background-color: green; */
     height: 30px;
     width: 50%;
-    /* height: 35rem; */
 }
 
 .advertising_photo{
-    width: 32rem;
+    width: 35rem;
+    height: 38rem;
 }
