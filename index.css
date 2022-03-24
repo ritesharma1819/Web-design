@@ -139,21 +139,59 @@
 
 .members{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4F2F4;
+    border-radius: 1rem;
+    width: 22rem;
+    height: 6rem;
 }
 
 
 .admin_member{
     width: 40px;
 }
+.admin_pra{
+    font-size: 10px;
+    margin-left: 0.4rem;
+}
+
 .first_member{
     width: 40px;
+    margin-left: 1.5rem;
+    margin-right: 2rem;
 }
+.first_member_pra{
+    font-size: 10px;
+    margin-left: 1.3rem;
+}
+
+
 .second_member{
     width: 40px;
 }
-.third_member{
-    width: 40px;
+.second_member_pra{
+    font-size: 10px;
+    margin-left: -0.4rem;
 }
+
+
+.third_member{
+    width: 40px; 
+    margin-left: 1.5rem;
+    margin-right: 2rem;
+}
+.third_member_pra{
+    font-size: 10px;
+    margin-left: 1.3rem;
+}
+
+
 .fourth_member{
     width: 40px;
+}
+.fourth_member_pra{
+    font-size: 10px;
+    margin-left: -0.2rem;
+
 }
