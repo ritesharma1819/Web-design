@@ -66,19 +66,20 @@
 .leftside{
     margin-left: 5rem;
     width: 50%;
-    height: 35rem;
-    background-color: red;
+    /* height: 25rem; */
+    /* background-color: red; */
 }
 
 
 .promotion_lines{
     font-size: 4rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 
 .small_pragraph{
     font-weight: 300;
     font-size: large;
+    margin-top: -1rem;
 }
 
 .main_component{
@@ -203,8 +204,12 @@
 
 
 .rightside{
-    background-color: green;
+    /* background-color: green; */
     height: 30px;
     width: 50%;
-    height: 35rem;
+    /* height: 35rem; */
+}
+
+.advertising_photo{
+    width: 32rem;
 }
